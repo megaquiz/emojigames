@@ -4,7 +4,7 @@ x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 TITULO: "GRACIAS MANU!";
 CUERPO: "Muchas gracias, Manucraft!
 Qué? No sabes quién es?
-Pues justo hoy ha subido un vídeo regalando pistas y probando el juego!
+Pues justo hoy ha subido un vídeo regalando pistas y puntuando el juego!
 No te lo pierdas!!!";
 x PARA ACEPTABLE OK: "VER VÍDEO";
 x PARA CERRABLE: "x";
