@@ -1,14 +1,14 @@
-x PARA POP UP ACTIVADO: "";
+x PARA POP UP ACTIVADO: "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 ->-0- PARA TODOS VERSION: ">"0";
-TITULO: "GRACIAS MINE!";
-CUERPO: "Muchas gracias, Minegirl!
-Qué? No sabes quién es?
-Pues justo hoy ha subido un vídeo regalando pistas y puntuando el juego!
-No te lo pierdas!!!";
+TITULO: "ROVICHUELOS!";
+CUERPO: "Muchas gracias, Rovi y Mel!
+Qué? No sabes quiénes son?
+Justo hoy han subido un vídeo de este juego donde seguro han escondido unas cuantas pistas.
+No te lo pierdas!!"
 x PARA ACEPTABLE OK: "VER VÍDEO";
 x PARA CERRABLE: "x";
--link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://www.youtube.com/watch?v=5HzS096KOw8";
--link- PARA IMAGEN: "https://user-images.githubusercontent.com/35817478/43345849-4f2ca1ae-91ef-11e8-88b2-816a29dfe4c2.png";
+-link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://www.youtube.com/watch?v=-TknIUILQA0";
+-link- PARA IMAGEN: "https://user-images.githubusercontent.com/35817478/43688488-17fb84be-98ea-11e8-99a6-9d436fcefb1f.png";
 -Regalar5Pistas- Funcion a ejecutar: "";Regalar5Pistas
 -1000- tiempo entre anuncios, por defecto 450: "60000";
