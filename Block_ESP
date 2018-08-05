@@ -1,4 +1,4 @@
-x PARA POP UP ACTIVADO: "";
+x PARA POP UP ACTIVADO: "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 ->-0- PARA TODOS VERSION: ">"0";
 TITULO: "ROVICHUELOS!";
@@ -9,7 +9,7 @@ No te lo pierdas!!
 Coméntanos si vienes de su parte!♥";
 x PARA ACEPTABLE OK: "VER VÍDEO";
 x PARA CERRABLE: "x";
--link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://www.youtube.com/watch?v=-TknIUILQA0";
+-link- PARA LINK Y NO CERRABLE EN BOTON OK: "https://www.youtube.com/watch?v=5JoUvs-cFA4";
 -link- PARA IMAGEN: "https://user-images.githubusercontent.com/35817478/43688488-17fb84be-98ea-11e8-99a6-9d436fcefb1f.png";
 -Regalar5Pistas- Funcion a ejecutar: "";Regalar5Pistas
 -1000- tiempo entre anuncios, por defecto 450: "60000";
